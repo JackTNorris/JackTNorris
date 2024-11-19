@@ -26,7 +26,7 @@
 ## 🔥 Streak stats
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mitchell's streak" src="https://streak-stats.demolab.com/?user=jacktnorris&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jack's streak" src="https://streak-stats.demolab.com/?user=jacktnorris&theme=monokai-metallian&hide_border=true"/>
 </p>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
